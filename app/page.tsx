@@ -280,7 +280,7 @@ export default function HomePage() {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <img src="/maquisoluciones-logo.png" alt="MaquiSoluciones Logo" className="w-8 h-8" />
-              <h1 className="text-xl font-bold text-foreground">MaquiSoluciones</h1>
+              <h1 className="text-xl font-bold text-foreground">MakiLibre</h1>
             </div>
             <nav className="hidden md:flex items-center gap-6">
               <a href="#" className="text-muted-foreground hover:text-foreground transition-colors">

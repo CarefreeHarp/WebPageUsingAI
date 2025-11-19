@@ -856,7 +856,7 @@ export default function HomePage() {
       {/* Platform Benefits */}
       <section className="py-16 bg-muted">
         <div className="container mx-auto px-4">
-          <h3 className="text-3xl font-bold text-center text-foreground mb-12">¿Por Qué Elegir MaquiSoluciones?</h3>
+          <h3 className="text-3xl font-bold text-center text-foreground mb-12">¿Por Qué Elegir MakiLibre?</h3>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             <div className="text-center">
@@ -935,7 +935,7 @@ export default function HomePage() {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <img src="/maquisoluciones-logo.png" alt="MaquiSoluciones Logo" className="w-8 h-8" />
-                <h4 className="text-lg font-bold text-foreground">MaquiSoluciones</h4>
+                <h4 className="text-lg font-bold text-foreground">MakiLibre</h4>
               </div>
               <p className="text-muted-foreground text-pretty">
                 Digitalizando el alquiler de maquinaria pesada para máxima eficiencia y rentabilidad.
@@ -1022,7 +1022,7 @@ export default function HomePage() {
           </div>
 
           <div className="border-t border-border mt-8 pt-8 text-center text-muted-foreground">
-            <p>&copy; 2024 MaquiSoluciones. Todos los derechos reservados.</p>
+            <p>&copy; 2024 MakiLibre. Todos los derechos reservados.</p>
           </div>
         </div>
       </footer>

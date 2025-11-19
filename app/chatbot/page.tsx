@@ -22,7 +22,7 @@ export default function ChatbotPage() {
     {
       id: "1",
       content:
-        "¡Hola! Soy tu asistente de MaquiSoluciones. Te ayudo a encontrar la maquinaria perfecta para tu proyecto. ¿Qué tipo de trabajo necesitas realizar?",
+        "¡Hola! Soy tu asistente de MakiLibre. Te ayudo a encontrar la maquinaria perfecta para tu proyecto. ¿Qué tipo de trabajo necesitas realizar?",
       sender: "bot",
       timestamp: new Date(),
       suggestions: [

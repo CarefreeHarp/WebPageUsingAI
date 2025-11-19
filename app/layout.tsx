@@ -7,7 +7,7 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "MaquiSoluciones - Plataforma de Alquiler de Maquinaria Pesada",
+  title: "MakiLibre - Plataforma de Alquiler de Maquinaria Pesada",
   description:
     "Plataforma digital para alquiler de maquinaria pesada con contratos digitales, seguimiento de horas y mantenimiento preventivo",
   generator: "v0.app",

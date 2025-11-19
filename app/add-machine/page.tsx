@@ -120,7 +120,7 @@ export default function AddMachinePage() {
               <div className="w-px h-6 bg-border" />
               <div className="flex items-center gap-2">
                 <img src="/maquisoluciones-logo.png" alt="MaquiSoluciones Logo" className="w-8 h-8" />
-                <h1 className="text-xl font-bold text-foreground">MaquiSoluciones</h1>
+                <h1 className="text-xl font-bold text-foreground">MakiLibre</h1>
               </div>
             </div>
             <Button variant="outline" size="sm">

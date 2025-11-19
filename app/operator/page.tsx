@@ -298,8 +298,6 @@ export default function OperatorDashboard() {
                   </Badge>
                 </div>
                 <div className="flex justify-between items-center">
-                  <span className="text-muted-foreground">Ingresos Generados</span>
-                  <span className="font-bold text-green-600">₡1,820,000</span>
                 </div>
               </div>
             </CardContent>
